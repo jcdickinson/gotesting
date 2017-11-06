@@ -1,6 +1,10 @@
 # gotesting
 Quick'n'dirty testing functions for go
 
+## License
+
+MIT. Check LICENSE for more info.
+
 ## Usage
 
 ```go
